@@ -25,7 +25,7 @@ The goal is to improve my problem-solving skills, master data structures and alg
 ## 📊 Progress Tracker
 | Day | Problem | Difficulty | Solution |
 |-----|---------|------------|----------|
-| 1   | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Java](Day1/solution.py) |
+| 1   | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Java](src/day001/romanToInteger.java) |
 | ... | ... | ... | ... |
 *(Full progress in [Progress-Tracker.md](Progress-Tracker.md))*
 
