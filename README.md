@@ -23,12 +23,10 @@ The goal is to improve my problem-solving skills, master data structures and alg
 - [ ] Track **progress** and identify weak areas for improvement.
 
 ## 📊 Progress Tracker
-| Day | Problem | Difficulty | Solution | Key Notes |
-|-----|---------|------------|----------|-----------|
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](Day1/solution.py) | Hash Map O(n) |
-| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Java](Day2/Solution.java) | Linked List traversal |
-| ... | ... | ... | ... | ... |
-
+| Day | Problem | Difficulty | Solution |
+|-----|---------|------------|----------|
+| 1   | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Java](Day1/solution.py) |
+| ... | ... | ... | ... |
 *(Full progress in [Progress-Tracker.md](Progress-Tracker.md))*
 
 ## 🤝 How to Use This Repo
