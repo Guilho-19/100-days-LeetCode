@@ -27,7 +27,6 @@ The goal is to improve my problem-solving skills, master data structures and alg
 |-----|---------|------------|----------|
 | 1   | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Java](src/day001/romanToInteger.java) |
 | ... | ... | ... | ... |
-*(Full progress in [Progress-Tracker.md](Progress-Tracker.md))*
 
 ## 🤝 How to Use This Repo
 1. **Clone the repository**:
