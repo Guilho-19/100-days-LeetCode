@@ -26,6 +26,7 @@ The goal is to improve my problem-solving skills, master data structures and alg
 | Day | Problem | Difficulty | Solution |
 |-----|---------|------------|----------|
 | 1   | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Java](src/day001/romanToInteger.java) |
+| 2   | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | [Java](src/day002/twoSum.java) |
 | ... | ... | ... | ... |
 
 ## 🤝 How to Use This Repo
